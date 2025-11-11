@@ -18,3 +18,12 @@ Eine umfassende Analyse zur Kundensegmentierung im E-Commerce mit verschiedenen 
 
 Dieses Projekt implementiert verschiedene **Clustering-Algorithmen** zur Segmentierung von E-Commerce-Kunden basierend auf ihrem Kaufverhalten. Ziel ist es, verschiedene Kundensegmente zu identifizieren und maßgeschneiderte Marketing-Strategien zu entwickeln.  
 
+### Geschäftsziele
+
+- Identifikation verschiedener Kundengruppen
+- Optimierung von Marketing-Ressourcen
+- Personalisierte Kundenansprache
+- Steigerung der Kundenbindung und des Umsatzes
+
+
+  
