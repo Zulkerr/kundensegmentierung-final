@@ -27,7 +27,7 @@ Dieses Projekt implementiert verschiedene **Clustering-Algorithmen** zur Segment
 
 ## Dataset 
 
-**Quelle:** [Online Retail Dataset](http://archive.ics.uci.edu/ml/datasets/OnlineRetail) (UCI Machine Learning Repository)
+**Quelle:** [Online Retail Dataset](https://www.kaggle.com/code/hellbuoy/online-retail-k-means-hierarchical-clustering)
 
 
 
