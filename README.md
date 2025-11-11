@@ -25,5 +25,10 @@ Dieses Projekt implementiert verschiedene **Clustering-Algorithmen** zur Segment
 - Personalisierte Kundenansprache
 - Steigerung der Kundenbindung und des Umsatzes
 
+## Dataset 
+
+**Quelle:** [Online Retail Dataset](http://archive.ics.uci.edu/ml/datasets/OnlineRetail) (UCI Machine Learning Repository)
+
+
 
   
