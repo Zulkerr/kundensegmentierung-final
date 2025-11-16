@@ -65,7 +65,25 @@ Das Projekt implementiert **vier verschiedene Clustering-Algorithmen** und vergl
 - Verschiedene Linkage-Methoden (Ward, Complete, Average)
 - Rechenintensiv bei großen Datensätzen
 
+### 3. **OPTICS (Ordering Points To Identify the Clustering Structure)**
+- Findet Cluster variabler Dichte
+- Keine eps-Parameter nötig
+- Reachability-Plot-Visualisierung
+- Komplexer zu interpretieren
 
+### 4. **DBSCAN(Density-Based Spatial Clustering)**
+- Findet Cluster beliebiger Form
+- Identifiziert Ausreißer automatisch
+- Robust gegenüber Noise
+- sensitive Parameter-Wahl (eps, min_samples)
+
+## Projektstruktur 
+
+kundensegmentierung/  
+|  
+|-----data/
+| |-----raw/
+| |
 
 
 
