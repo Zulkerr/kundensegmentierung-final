@@ -160,11 +160,12 @@ jupyter>=1.0.0
 
 ## Verwendung
 
-- 1. Daten laden und Vorbereiten
-- 2. Clustering Methoden anwenden
-- 3. Cluster Evaluieren & Analysieren
-  4. Intepretieren & Visualisieren
-  5. Ergebnisse Exportieren 
+-  Daten laden und Vorbereiten
+-  Clustering Methoden anwenden
+-  Cluster Evaluieren & Analysieren
+-  Intepretieren & Visualisieren
+-  Ergebnisse Exportieren
+   
 
 
   
