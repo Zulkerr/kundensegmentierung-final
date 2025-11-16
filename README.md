@@ -83,9 +83,7 @@ Das Projekt implementiert **vier verschiedene Clustering-Algorithmen** und vergl
 kundensegmentierung/  
 
 ├── data/  
-
 │   └── raw/  
-
 │       └── OnlineRetail.csv             # Original-Datensatz
 
 ├── notebooks/   
