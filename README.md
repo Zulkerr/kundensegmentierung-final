@@ -199,4 +199,12 @@ Das Projekt verwendet RFM-Analyse(Recency, Frequency, Monetary) als Grundlage:
 |  OPTICS     | 3-5      | ~0.38             | 2-5%     | min_samples=5  | Variable Dichte-Cluster |
 | DBSCAN      | 3        |  0.153            | 2.8%     | eps=0.4,min_samples=6| Ausreißer-Identifikation| 
 
+### Business Impact
+
+#### Geschätzer ROI durch Segmentierung
+- Champions: Umsatzsteigerung durch Loyalitätsprogramme (+15-20%)
+- Hibernating: Reaktivierung von 20% = 294 Kunden * £342 = £100.548 zusätzlicher Umsatz
+- Potential Loyalists: Conversion zu Stammkunden (+30%) = £162.733 zusätzlicher Umsatz
+- Extreme Customers: B2B-Verträge = £3,1M Gesamtumsatz sichern
+
 
