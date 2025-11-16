@@ -117,7 +117,7 @@ kundensegmentierung/
 
 ````
 
-## Insatlation
+## Installation
 
 ### Voraussetzungen
 
@@ -131,6 +131,31 @@ git clone https://github.com/Zulkerr/kundensegmentierung.git
 oder Zip-Datei herunterladen und extraiehren
 ````
 
+### Schritt 2: Virtual Environment erstellen
+```bash
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+# Mac/Linux
+source venv/bin/activate
+````
+
+### Schritt 3: Abhängigkeiten installieren
+```bash
+pip install -r requirements.txt
+````
+```requirements.txt
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+openpyxl>=3.1.0
+jupyter>=1.0.0
+````
 
 
 
