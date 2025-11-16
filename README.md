@@ -207,4 +207,12 @@ Das Projekt verwendet RFM-Analyse(Recency, Frequency, Monetary) als Grundlage:
 - Potential Loyalists: Conversion zu Stammkunden (+30%) = £162.733 zusätzlicher Umsatz
 - Extreme Customers: B2B-Verträge = £3,1M Gesamtumsatz sichern
 
+## Technologien
+- Python
+- pandas — Datenmanipulation
+- Numpy  — Numerische Berechnung
+- scikit-learn — Machine Learning Algorithmen
+- matplotlib & seaborn  — Visualisierung
+- Jupyter Notebook — Interaktive Entwicklung
 
+ 
