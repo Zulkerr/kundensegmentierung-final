@@ -181,7 +181,6 @@ Das Projekt verwendet RFM-Analyse(Recency, Frequency, Monetary) als Grundlage:
 
 ### Identifizierte Kundensegmente (Ein Beispiel von DBSCAN)
 
-## Identifizierte Kundensegmente (DBSCAN-Ergebnisse)
 
 | Segment             | Größe        | Ø Recency | Ø Frequency | Ø Monetary   | Beschreibung                            |
 |---------------------|--------------|-----------|-------------|-------------|---------------------------------------|
@@ -190,5 +189,11 @@ Das Projekt verwendet RFM-Analyse(Recency, Frequency, Monetary) als Grundlage:
 |  Potential Loyalists | 827 (19.1%) | 94 Tage   | 2.0         | £656.19     | Kürzlich aktiv, Potenzial für Stammkunden |
 |  Extreme Customers | 121 (2.8%)   | 67 Tage   | 22.4        | £25,856.65  | Ausreißer: B2B-Kunden oder Großhändler|
 
+
+### Algorithmen-Vergleich
+
+| Algorithmus        | Cluster      | Slihouette Score  | Noise    | Best Parameter | Vorteile    |
+|--------------------|--------------|-------------------|----------|----------------| ------------|
+|  K-Means           |  4           | ~0.45             |  0%      | k=4            | Schnell,Klar interpretierbar|
 
 
