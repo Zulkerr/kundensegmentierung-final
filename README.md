@@ -79,12 +79,13 @@ Das Projekt implementiert **vier verschiedene Clustering-Algorithmen** und vergl
 
 ## Projektstruktur 
 
-## 📂 Projektstruktur
 
-kundensegmentierung/
+kundensegmentierung/  
 
 ├── data/  
+
 │   └── raw/  
+
 │       └── OnlineRetail.csv             # Original-Datensatz
 
 ├── notebooks/   
