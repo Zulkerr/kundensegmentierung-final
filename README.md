@@ -173,7 +173,7 @@ jupyter lab
    
 ## Ergebnisse
 
-RFM-Analyse
+### RFM-Analyse  
 Das Projekt verwendet RFM-Analyse(Recency, Frequency, Monetary) als Grundlage:
 - Recency (R): Tage seit letztem Kauf
 - Frequency (F): Anzahl der Bestellungen
